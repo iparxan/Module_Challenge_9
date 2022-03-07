@@ -4,10 +4,16 @@ W. Avy wants to open a new business in Oahu to open a market for surf and ice cr
 However, he should know the weather, which is conditional for selling ice cream and surfing business. 
 Especially temperature data in June and December could show whether his shops will be sustainable year-round.
 Therefore, I wanted to know summaries of the weather in June and December.
+
 ## Results:
-    The temperature in June, the highest, is 85F, but in December, 83F. In terms of average temperature, 75F for June and 71F for December. 
-    in terms of range of tempuratures in June and December, 64-85 in June and 56-83 in December. December had slightly lower tempurature.
-    December had wider range of tempurature changes compared to June.
+
+
+The temperature in June, the highest, is 85F, but in December, 83F. 
+In terms of average temperature, 75F for June and 71F for December. 
+in terms of range of tempuratures in June and December, 64-85 in June and 56-83 in December. 
+December had slightly lower tempurature. December had wider range of tempurature changes compared to June.
+
+
 ![Alt](https://github.com/iparxan/Module_Challenge_9/blob/main/Resources/Junesummary.png)
 ![Alt](https://github.com/iparxan/Module_Challenge_9/blob/main/Resources/Decembersummary.png)
      
